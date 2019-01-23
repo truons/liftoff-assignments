@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-https://github.com/truons
+[Github Profile] https://github.com/truons
  
 ### LinkedIn
-https://www.linkedin.com/in/shawn-truong-87a53245/
+[Linkedin Profile] https://www.linkedin.com/in/shawn-truong-87a53245/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
